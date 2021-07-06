@@ -6,13 +6,13 @@ function Header() {
 
     
     <nav class="navbar navbar-inverse">
-        <a class="navbar-brand" href="#">Title</a>
+        <a class="navbar-brand" href="#">Shop</a>
         <ul class="nav navbar-nav">
             <li class="active">
                 <a href="#">Home</a>
             </li>
             <li>
-                <a href="#">Link</a>
+                <a href="#">product</a>
             </li>
         </ul>
     </nav>
